@@ -1,5 +1,5 @@
-writable_directories: [ test2 ]
-
+# shared_writable_dirs: [ test2 ]
+shared_writable_dirs: [/test2]
 version: '5.2.17'
 
 extensions: [eaccelerator] 
